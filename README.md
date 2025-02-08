@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm G2oabrielleeq8euShaw
 
-<!--
-**G2oabrielleeq8euShaw/G2oabrielleeq8euShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🎽 🎵 Passionate about algorithms 🚵 🎽 🎵
 
-Here are some ideas to get you started:
+## About Me
+🚴 🛶 🎪 🚴 A coder in technologies 🚴 🛶 🎪 🚴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎱 🚴 🎬 🚵 A programmer in cloud computing 🎱 🚴 🎬 🚵
+
+### Fun Facts
+🛼 🏏 🎬 Innovating in the field of developer advocacy 🛼 🏏 🎬
+
+---
+🎺 🎽 🎱 🚵 💡 Thanks for visiting my profile! 📚 🚣 🥊 🎱 🎳
